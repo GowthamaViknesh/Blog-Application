@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Josefin Sans', sans-serif;
+
+  min-height: 100vh;
+  background-image: url('https://png.pngtree.com/background/20220727/original/pngtree-vector-background-electronic-circuits-design-picture-image_1839033.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
